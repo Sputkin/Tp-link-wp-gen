@@ -4,4 +4,4 @@ This simple script generate a wordlist of all the possible passwords used by def
 The script was created for the sole purpose of teaching , so I'm not assuming any responsibility if it is used to harm people or computer systems .
 
 
-![Preview](https://raw.githubusercontent.com/Sputkin/Tp-link-wp-gen/master/img/airc.png
+![Preview](https://raw.githubusercontent.com/Sputkin/Tp-link-wp-gen/master/img/airc.png)
